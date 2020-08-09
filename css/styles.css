@@ -1,0 +1,106 @@
+body {
+  color: #4a3f35;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #4a3f35;
+  font-size: 5.625rem;
+  margin: 30px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #4a3f35;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #4a3f35 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #4a3f35;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+
+.topcontainer {
+  background-color: #ffa36c;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middlecontainer {
+  margin: 100px 0;
+}
+
+.bottomcontainer {
+  background-color: #ffa36c;
+  margin-top: 30px;
+  padding: 50px 0 20px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Sap-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Nokia-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Ibm-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.palmtree {
+  width: 50%;
+  height: auto;
+}
+
+.btn {
+  background: #ffa36c;
+  background-image: linear-gradient(to bottom,  #ffa36c, #ff4301);
+  border-radius: 6px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
